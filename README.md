@@ -1,1 +1,2 @@
-# Data_Course_COOKThis README file contains information about my uploaded assignments
+# Data_Course_COOK
+This README file contains information about my uploaded assignments
