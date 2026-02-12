@@ -1,0 +1,9 @@
+sex,island,avg_body_mass,no_of_penguins,max_mass,min_mass
+male,Biscoe,5222.039473684211,76,6300,3550
+female,Biscoe,4654.661016949152,59,5200,3200
+NA,Biscoe,4587.5,4,4875,4100
+male,Dream,3946.4285714285716,49,4800,3250
+male,Torgersen,4096.153846153846,13,4700,3325
+NA,Torgersen,4250,1,4250,4250
+female,Dream,3524.3055555555557,36,4150,2700
+female,Torgersen,3400,4,3700,3200
