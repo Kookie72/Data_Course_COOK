@@ -1,0 +1,33 @@
+pwd - show current folder
+ls - list all folders/files in current location
+cd - change directory
+move file/folder - mv (path of file) (path of destination)
+go to home directory - cd ~
+move to previous folder - cd ..
+copy folder - cd -R
+cd ~/Desktop - go to Desktop
+cd ~ - go to home directory 
+cd (name any folder/file in current directory)
+git clone (URL) - clones git repository
+cp -R (original path) (destination path)
+
+option + ‘-‘ = <- in R
+
+git add Notes
+git commit -m “Notes”
+git push
+
+Open file: nano ~/git_credential_helper.sh
+
+Open file - vi “file name”
+i - inserts text at cursor
+o - inserts text at bottom of document
+esc - exit edit mode
+:w - save edits
+:q - closes document
+:wq - save and close
+:q! - close without saving
+dd - delete line
+u - undo
+yy - copy line
+p - paste
