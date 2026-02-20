@@ -1,0 +1,5 @@
+I would like to create a graph that shows the number of shark attacks around the world every year.
+I found a dataset that has data for reported shark attacks around the world that includes the 
+year, country, and location of the attack, among other data. This file is saved as a .csv file. 
+I would like to make a map of the world that shows the shark attacks around the as it cycles 
+through the years.
