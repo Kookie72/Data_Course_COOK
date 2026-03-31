@@ -13,8 +13,8 @@ cp -R (original path) (destination path)
 
 option + ‘-‘ = <- in R
 
-git add Assignments/Assignment_4
-git commit -m “Assignment_4”
+git add Notes
+git commit -m “Notes”
 git push
 
 Open file: nano ~/git_credential_helper.sh
