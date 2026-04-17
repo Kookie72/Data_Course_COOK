@@ -1,0 +1,14 @@
+Responses
+1. Are any of your predicted response values from your best model scientifically meaningless? Explain.####
+No. Some of my predicted responses have a growth rate near zero, but none of the have a negative growth rate.
+And none of them have a growth rate that is higher than what was observed in real life.
+
+2. In your plots, did you find any non-linear relationships? Do a bit of research online and give a link to at least one resource explaining how to deal with modeling non-linear relationships in R.####
+Yes. The real life data had growth rate that was not linear. Here is a resource that shows how to deal with this: https://www.sthda.com/english/articles/40-regression-analysis/162-nonlinear-regression-essentials-in-r-polynomial-and-spline-regression-models/
+
+3. Write the code you would use to model the data found in “/Data/non_linear_relationship.csv” with a linear model (there are a few ways of doing this)####
+lin_relation = read.csv("../../Data/non_linear_relationship.csv")
+view(lin_relation)
+str(lin_relation)
+
+lin_mod = lm(predictor ~ response, data = lin_relation) %>% plot()
